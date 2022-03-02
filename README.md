@@ -10,6 +10,6 @@ adding a comment for my check
 ## Deployment
 
 ## How to Contribute
-
+please fork this reposity 
 ### Copyright
 git training
