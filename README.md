@@ -10,3 +10,6 @@ adding a comment for my check
 ## Deployment
 
 ## How to Contribute
+
+### Copyright
+git training
